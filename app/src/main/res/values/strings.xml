@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name_text">Vinicius Maboni</string>
+    <string name="yellow_star">Yellow Start</string>
+    <string name="bio"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquam mauris lorem,
+        id sagittis nisl varius id. Phasellus mattis hendrerit sodales. Nulla condimentum, massa eget hendrerit
+        ultricies, massa augue tristique nibh, vitae laoreet velit ante quis magna. Maecenas suscipit id ex in volutpat.
+        \n Ut quis massa eu tellus commodo aliquam. Sed eget convallis velit, a pulvinar ipsum.
+        \n Suspendisse ac blandit massa. Etiam eget velit ultrices, tincidunt urna quis, gravida nunc.
+     \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquam mauris lorem,
+        id sagittis nisl varius id. Phasellus mattis hendrerit sodales. Nulla condimentum, massa eget hendrerit
+        ultricies, massa augue tristique nibh, vitae laoreet velit ante quis magna. Maecenas suscipit id ex in volutpat.
+        \n Ut quis massa eu tellus commodo aliquam. Sed eget convallis velit, a pulvinar ipsum.
+        \n Suspendisse ac blandit massa. Etiam eget velit ultrices, tincidunt urna quis, gravida nunc.
+     \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquam mauris lorem,
+        id sagittis nisl varius id. Phasellus mattis hendrerit sodales. Nulla condimentum, massa eget hendrerit
+        ultricies, massa augue tristique nibh, vitae laoreet velit ante quis magna. Maecenas suscipit id ex in volutpat.
+        \n Ut quis massa eu tellus commodo aliquam. Sed eget convallis velit, a pulvinar ipsum.
+        \n Suspendisse ac blandit massa. Etiam eget velit ultrices, tincidunt urna quis, gravida nunc.</string>
+    <string name="whats_is_your_nickname">What is your nick name</string>
+    <string name="done">Done</string>
 </resources>
